@@ -1,0 +1,8 @@
+Cereal,Breakfast,250,
+Pasta,Dinner,150,
+Chicken,Dinner,320,
+Apple,Lunch,95,
+Steak,Dinner,700,
+Sandwich,Lunch,200,
+Oatmeal,Breakfast,175,
+Chips,Lunch,125,
