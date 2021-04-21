@@ -3,7 +3,7 @@ import java.util.Scanner
 
 fun main() {
 
-    var array = MutableList(5) { foodItem("", "", 0) } //foodItem array declaration
+    var array = MutableList(11) { foodItem("", "", 0) } //foodItem array declaration
     array.clear()
 
     val scanner = Scanner(File("C:\\Users\\Ian Catania\\IdeaProjects\\Kotlin Basics\\src\\food.txt")) //scanner takes text file
