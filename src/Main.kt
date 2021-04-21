@@ -6,7 +6,7 @@ fun main() {
     var array = MutableList(11) { foodItem("", "", 0) } //foodItem array declaration
     array.clear()
 
-    val scanner = Scanner(File("C:\\Users\\Ian Catania\\IdeaProjects\\Kotlin Basics\\src\\food.txt")) //scanner takes text file
+    val scanner = Scanner(File(".\\src\\food.txt")) //scanner takes text file
     scanner.useDelimiter(",") //separates data by comma
 
     while (scanner.hasNext()) { //iterates through scanner data
